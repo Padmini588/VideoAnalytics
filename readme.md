@@ -9,12 +9,12 @@ activities. We propose a two streamed 3 D deep learning model for automated vide
 ## Code for training Mouse Behavior Traking Using 3D Deep Learning:
 
 
-[Training](https://github.com/Shashankwer/SiameseNCS/blob/master/Scripts/Siamese_NCS.ipynb)
+[Training](https://github.com/Shashankwer/VideoAnalytics/blob/master/VideoAnalyticsCA.ipynb)
 
 ##Description
 
-Reference to the [pdf](https://github.com/Shashankwer/SiameseNCS/blob/master/NCS_Report.pdf)
+Reference to the [pdf](https://github.com/Shashankwer/VideoAnalytics/blob/master/CA_VideoAnalytics.pdf)
  
 ###Results 
 
-Refer to [file](https://github.com/Shashankwer/SiameseNCS/blob/master/output_cpu.mp4)
+Refer to [file](https://github.com/Shashankwer/VideoAnalytics/blob/master/predicted_new.avi)
