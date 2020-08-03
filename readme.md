@@ -1,4 +1,4 @@
-##About
+## About
 
 Video forms the major digital data being consumed. From entertainment to medical research videos from key applications. Appropriate moderation and classification of data is required to ensure appropriate use. Complex data representation makes this task difficult for traditional algorithms.
 Manual classification which involve monitoring long duration video, poses many limitations. A high performance automated recognition system can reduce such limitations posed. Deep learning, has capability to learn complex features and build models which can be generalized for such
