@@ -11,10 +11,10 @@ activities. We propose a two streamed 3 D deep learning model for automated vide
 
 [Training](https://github.com/Shashankwer/VideoAnalytics/blob/master/VideoAnalyticsCA.ipynb)
 
-##Description
+## Description
 
 Reference to the [pdf](https://github.com/Shashankwer/VideoAnalytics/blob/master/CA_VideoAnalytics.pdf)
  
-###Results 
+### Results 
 
 Refer to [file](https://github.com/Shashankwer/VideoAnalytics/blob/master/predicted_new.avi)
